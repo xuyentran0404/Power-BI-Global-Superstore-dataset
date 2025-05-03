@@ -1,4 +1,4 @@
-# [Power BI] Amazone-Global-Superstore-dataset
+# [Power BI] Amazon-Global-Superstore-dataset
 ---
 ## 1. Introduction  
 ### 1.1. Dataset
