@@ -23,12 +23,8 @@ The business owner wants to understand the company's business situation and maxi
 - Stage 4: Prototype and Review
 
 ## 3. Visualization
-### 3.1. Business Performance
-### 3.3. Product Analysis
-### 3.4. Returned Losses 
-### 3.5. Losses By Ship Modes 
-### 3.6. Ship Costs Analysis 
-### 3.7. Insights 
+![image](https://github.com/user-attachments/assets/037b5246-c3d1-4ef1-8cea-173080dd760b)
+
 
 ## 4. Recommendations
 **Market**  
