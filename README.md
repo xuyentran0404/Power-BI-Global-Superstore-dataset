@@ -14,7 +14,8 @@ It consists of 03 data tables:
 ![image](https://github.com/user-attachments/assets/87d8ab28-2d34-4857-8ba7-81505e1ec4d7)
 
 ### 1.3. Problem Statement
-The business owner wants to understand the company's business situation and control the situation in time
+The business owner wants to understand the company's business situation and control the situation in time 
+
 ---
 ## 2. Design Thinking Method
 ![image](https://github.com/user-attachments/assets/d70b3b77-8c18-49c9-b665-ef53dc04ca69)
